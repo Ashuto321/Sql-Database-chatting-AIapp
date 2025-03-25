@@ -1,9 +1,7 @@
 Database Chatting Application AI
-
 Overview
 
 The Database Chatting Application AI is an interactive chatbot that allows users to communicate with an SQLite database using natural language. Built with Streamlit, SQLite, and Python, this AI-powered application simplifies database queries by converting human-readable inputs into structured SQL commands.
-
 Features
 
 🗣️ Natural Language Interaction – Users can ask questions in plain English, and the AI converts them into SQL queries.
