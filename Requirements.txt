@@ -1,0 +1,4 @@
+#all the liberaries
+streamlit
+google-generativeai
+python-dotenv
