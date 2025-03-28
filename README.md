@@ -28,13 +28,6 @@ SQLite – Lightweight database management system
 
 LangChain / OpenAI API (optional) – For advanced natural language processing (NLP)
 
-Installation
-
-Clone this repository:
-
-git clone https://github.com/yourusername/database-chat-ai.git
-cd database-chat-ai
-
 Install dependencies:
 
 pip install -r requirements.txt
