@@ -1,4 +1,3 @@
-
 Database Chatting Application AI    
 
 Try demo: https://sql-database-chatting-aiapp-ashutosh-pandey.streamlit.app/
