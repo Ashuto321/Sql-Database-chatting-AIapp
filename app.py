@@ -14,7 +14,7 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 #function to load google model and provide sql query as a response
 def get_gemini_response(question,prompt):
-       model=genai.GenerativeModel('models/gemini-2.0-flash')
+       model=genai.GenerativeModel('gemini-2.0-flash-exp')
        response=model.generate_content([prompt[0],question])
        return response.text
 
