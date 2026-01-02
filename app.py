@@ -57,7 +57,7 @@ Examples:
 
 # Streamlit App
 st.set_page_config(page_title="SQL Query Generator | Chat with your Database", page_icon="🤖")
-st.image("123.png", width=200)
+st.image("1234.png", width=200)
 st.markdown("🤖 **Edureka's Gemini App – Your AI-Powered SQL Assistant!**")
 st.markdown("🚀 Ask any question, and I'll generate the SQL query for you!")
 
