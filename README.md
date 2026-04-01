@@ -1,6 +1,6 @@
 Database Chatting Application AI    
 
-Try demo: https://sql-database-chatting-aiapp-ashutoshcreation.streamlit.app/
+Try demo: https://sql-database-chatting-aiapp-ashutoshcreation.streamlit.app/ here is the demo link 
  
 ![image alt]()
 
